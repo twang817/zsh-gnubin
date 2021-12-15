@@ -4,3 +4,5 @@
 }
 [ ! -z "$GNUBIN" ] && echo "export PATH=\"$GNUBIN:\$PATH\""
 [ ! -z "$GNUMAN" ] && echo "export MANPATH=\"$GNUMAN:\$MANPATH\""
+
+true
